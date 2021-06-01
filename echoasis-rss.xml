@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>echOasis</title>
+    <copyright>CC BY-NC-SA 4.0</copyright>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:author>Simon Barthmuß</itunes:author>
+    <itunes:owner>
+      <itunes:name>Simon Barthmuß</itunes:name>
+      <itunes:email>cro0wqxa6@relay.firefox.com</itunes:email>
+    </itunes:owner>
+    <itunes:type>episodic</itunes:type>
+    <link>https://audio.gafamfree.party/channels/echoasis</link>
+    <atom:link href="https://audio.gafamfree.party/api/v1/channels/echoasis/rss" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://audio.gafamfree.party/federation/actors/echoasis" rel="alternate" type="application/activity+json"/>
+    <language>en</language>
+    <itunes:category text="Society &amp; Culture"/>
+    <itunes:subtitle>Feeling desolate in the digital wasteland of unibz? You're not alone…</itunes:subtitle>
+    <itunes:summary>Feeling desolate in the digital wasteland of unibz? You're not alone. Enjoy the company and listen to the voices of others at this pond. Get away from your computer—connect with your surroundings and yourself, instead. I'm Simon and together with my guests, we will explore happiness and stress on the online unibz campus. Allow yourself a break from the ever-present screens and listen to the people of unibz, such as students, teachers, administrative staff, researchers…
+    </itunes:summary>
+    <description>Feeling desolate in the digital wasteland of unibz? You're not alone. Enjoy the company and listen to the voices of others at this pond. Get away from your computer—connect with your surroundings and yourself, instead. I'm Simon and together with my guests, we will explore happiness and stress on the online unibz campus. Allow yourself a break from the ever-present screens and listen to the people of unibz, such as students, teachers, administrative staff, researchers…</description>
+    <itunes:image href="https://audio.gafamfree.party/media/attachments/b2/35/68/echoasis-cover_compressed.jpg"/>
+    <itunes:keywords>culture digital education eudaimonia mindful satisfaction talk unibz</itunes:keywords>
+    <item>
+      <title>Jessica Dittmer, how precarious is academia?</title>
+      <itunes:title>Jessica Dittmer, how precarious is academia?</itunes:title>
+      <itunes:subtitle>Find out about academic work at unibz, working conditions and perspectives for researchers.</itunes:subtitle>
+      <description>
+        <p>Jessica Dittmer is a research assistant at the faculty of Science and Technology. She has a decade of work experience in academia in several countries. How does she plan her future? Why is uncertainty so common in academic labour? Are there scientists who protest for better contracts?  </p>
+        <p>The interview is followed by an exercise which will connect you with your deeper notions towards debate positions.</p>
+
+        (00:00) Intro 
+        (02:31) Who is Jessica Dittmer?
+        (06:51) Stress and destressing
+        (09:54) The work-life-dilemma in academia
+        (13:30) How to get out of precarity?
+        (20:01) Why are scientists so invisible?
+        (29:31) How bad is the mental pressure? Why not get into private economy?
+        (37:09) Goodbye to Jessica
+         (38:04) Conclusion &amp; meditation
+
+        <p>Listen to more scientists talking about precarious work in German:
+          <a href="https://www.youtube.com/watch?v=U347X7J7Z1E">https://www.youtube.com/watch?v=U347X7J7Z1E</a>
+        </p>
+        <p>Music by Aaron Ximm, licensed under CC BY-NC-SA. Available at the Free Music Archive:
+          <a href="https://freemusicarchive.org/music/Aaron_Ximm/Handpans_and_the_Hang">https://freemusicarchive.org/music/Aaron_Ximm/Handpans_and_the_Hang</a>.
+        </p>
+      </description>
+      <content:encoded>
+        <p>The interview is followed by an exercise which will connect you with your deeper notions towards debate positions.</p>
+        <p>The interview is followed by an exercise which will connect you with your deeper notions towards debate positions.</p>
+        <br>
+        <p>(00:00) Intro </p>
+        <p>(02:31) Who is Jessica Dittmer?</p>
+        <p>(06:51) Stress and destressing</p>
+        <p>(09:54) The work-life-dilemma in academia</p>
+        <p>(13:30) How to get out of precarity?</p>
+        <p>(20:01) Why are scientists so invisible?</p>
+        <p>(29:31) How bad is the mental pressure? Why not get into private economy?</p>
+        <p>(37:09) Goodbye to Jessica</p>
+        <p>(38:04) Conclusion &amp; meditation</p>
+        <br>
+        <p>More scientists talking about precarious work in German:</p>
+        <p>
+          <a href="https://www.youtube.com/watch?v=U347X7J7Z1E">https://www.youtube.com/watch?v=U347X7J7Z1E</a>
+        </p>
+        <br>
+        <p>Music by Aaron Ximm, licensed under CC BY-NC-SA. Available at the Free Music Archive:
+        <p>
+          <a href="https://freemusicarchive.org/music/Aaron_Ximm/Handpans_and_the_Hang">https://freemusicarchive.org/music/Aaron_Ximm/Handpans_and_the_Hang</a>.
+        </p>
+      </content:encoded>
+      <itunes:summary>Find out about academic work at unibz, working conditions and perspectives for researchers.</itunes:summary>
+      <pubDate>Sat, 29 May 2021 21:29:36 +0000</pubDate>
+      <itunes:duration>00:46:20</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:image href="https://audio.gafamfree.party/media/attachments/7e/73/37/jessica_dittmer-cover.jpg" />
+      <link>https://audio.gafamfree.party/library/tracks/61627</link>
+      <enclosure length="45038983" type="audio/mpeg" url="https://audio.gafamfree.party/api/v1/stream/8aea893c-1576-4ab5-85eb-9c634f3d211e.mp3" />
+      <guid isPermaLink="false">ad5d6050-0ae8-4988-b6ec-09f6f705d8f2</guid>
+    </item>
+    <item>
+      <title>Salvatore Lauricella, how is unibz politics?</title>
+      <itunes:title>Salvatore Lauricella, how is unibz politics?</itunes:title>
+      <itunes:subtitle>Hear all about voluntary student work in the unibz senate and political participation at our university.</itunes:subtitle>
+      <description><![CDATA[
+        <p>Salvatore Lauricella is the former student representative in the academic senate of unibz. The day of the recording was one of his last in that position. He will tell us about his honorary position, representation in general and in the senate specifically. What does the senate do all the time? Which role do patriarchal structures play at unibz? Why is the uni so apolitical? </p>
+        <br>
+        <p>As usual, you are invited to stay for a mindfulness practice after the interview.</p>
+        <br>
+        <p>(00:00) Intro </p>
+        <p>(02:15) Who is Salvatore Lauricella? </p>
+        <p>(03:20) What does a rep in the senate do?</p>
+        <p>(07:40) Collaboration with other councils and reps </p>
+        <p>(10:40) unibz during the pandemic</p> 
+        <p>(13:40) Patriarchy in the councils </p>
+        <p>(20:45) (A)political culture &amp; participation at unibz</p> 
+        <p>(36:45) Goodbye to Salvatore </p>
+        <p>(38:10) Conclusion &amp; meditation</p>
+        <br>
+        <p>Music by Aaron Ximm, licensed under CC BY-NC-SA. Available at the Free Music Archive:
+          <br>
+          <a href="https://freemusicarchive.org/music/Aaron_Ximm/Handpans_and_the_Hang">https://freemusicarchive.org/music/Aaron_Ximm/Handpans_and_the_Hang</a>.
+        </p>
+      ]]></description>
+      <content:encoded><![CDATA[
+        <p>Salvatore Lauricella is the former student representative in the academic senate of unibz. The day of the recording was one of his last in that position. He will tell us about his honorary position, representation in general and in the senate specifically. What does the senate do all the time? Which role do patriarchal structures play at unibz? Why is the uni so apolitical? </p>
+        <br>
+        <p>As usual, you are invited to stay for a mindfulness practice after the interview.</p>
+        <br>
+        <p>(00:00) Intro </p>
+        <p>(02:15) Who is Salvatore Lauricella? </p>
+        <p>(03:20) What does a rep in the senate do?</p>
+        <p>(07:40) Collaboration with other councils and reps </p>
+        <p>(10:40) unibz during the pandemic</p> 
+        <p>(13:40) Patriarchy in the councils </p>
+        <p>(20:45) (A)political culture &amp; participation at unibz</p> 
+        <p>(36:45) Goodbye to Salvatore </p>
+        <p>(38:10) Conclusion &amp; meditation</p>
+        <br>
+        <p>Music by Aaron Ximm, licensed under CC BY-NC-SA. Available at the Free Music Archive:
+          <br>
+          <a href="https://freemusicarchive.org/music/Aaron_Ximm/Handpans_and_the_Hang">https://freemusicarchive.org/music/Aaron_Ximm/Handpans_and_the_Hang</a>.
+        </p>
+      ]]></content-encoded>
+      <itunes:summary>Hear all about voluntary student work in the unibz senate and political participation at our university.</itunes:summary>
+      <pubDate>Sun, 16 May 2021 16:48:28 +0000</pubDate>
+      <itunes:duration>00:43:07</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <link>https://audio.gafamfree.party/library/tracks/61626</link>
+      <enclosure length="41920909" type="audio/mpeg" url="https://audio.gafamfree.party/api/v1/stream/dce9aefc-573c-4b90-8843-92f568d4fde6.mp3" />
+      <guid isPermaLink="false">5edde2c3-4f84-479b-a5de-64051b06ae00></guid>
+    </item>
+    <item>
+      <title>Demis Basso, what's good teaching for you?</title>
+      <itunes:title>Demis Basso, what's good teaching for you?</itunes:title>
+      <itunes:subtitle>Listen in on Demis talking about his vision of an ideal teaching style.</itunes:subtitle>
+      <description><![CDATA[
+        <p>Demis Basso is a professor and educator at the Faculty of Education at unibz. In his research he links pedagogics and cognitive sciences. What are the difficulties of feedback between teachers and students in digital space and how might we overcome them? Why do students feel more isolated in these time than their teachers? What role can hierarchy play in student-teacher relations? </p>
+        <br>
+        <p>After the interview you are invited to explore the wonderful world of tedious body rituals.</p>
+        <br>
+        <p>(00:00) Intro</p>
+        <p>(01:47) Who is Demis Basso?</p>
+        <p>(02:35) Technical shenanigans in MS Teams</p>
+        <p>(04:48) Webcam-lazy audience, student participation &amp; lecture responsibilities</p>
+        <p>(10:21) (Possible) Methods for feedback</p>
+        <p>(17:43) Demis, what’s satisfaction for you?</p>
+        <p>(19:14) (Subjective) Student-teacher isolation</p>
+        <p>(22:26) Student-teacher hierarchy: cultural implications</p>
+        <p>(28:41) Satusfaction through student participation</p>
+        <p>(33:07) Demis’ personal stress release &amp; outro</p>
+        <p>(36:03) Conclusion</p>
+        <p>(36:50) Plea &amp; invitation: tedious body rituals (Shaving ASMR)</p>
+        <br>
+        <p>Music by Aaron Ximm, licensed under CC BY-NC-SA. Available at the Free Music Archive:
+          <br>
+          <a href="https://freemusicarchive.org/music/Aaron_Ximm/Handpans_and_the_Hang">https://freemusicarchive.org/music/Aaron_Ximm/Handpans_and_the_Hang</a>.
+        </p>
+      ]]></description>
+      <itunes:summary>Listen in on Demis talking about his vision of an ideal teaching style.</itunes:summary>
+      <pubDate>Sun, 25 Apr 2021 08:50:03 +0000</pubDate>
+      <itunes:duration>00:40:41</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <link>https://audio.gafamfree.party/library/tracks/60270</link>
+      <enclosure url="https://audio.gafamfree.party/api/v1/stream/cc41cfe0-93bc-4634-916d-8a77384bf863.mp3" length="39564512" type="audio/mpeg"/>
+      <guid isPermaLink="false">8e3e9584-1801-438b-bac4-3aa00301ab1c</guid>
+    </item>
+    <item>
+      <title>Andrea Waldthaler, how is unibz' digital administration?</title>
+      <itunes:title>Andrea Waldthaler, how is unibz' digital administration?</itunes:title>
+      <itunes:subtitle>Experience this lecture in calmness and benevolence. Ommmm…</itunes:subtitle>
+      <description><![CDATA[
+        <p>Andrea Waldthaler is a secretary at the Faculty of Design and Art. She is the ideal partner to find out what it means to keep a positive attitude even during a pandemic. What does it take to be happy? What works well on the campus? How can we focus on these little but very frequent things?</p>
+        <br>
+        <p>Listen in during a cup of your favourite beverage!</p>
+        <br>
+        <p>(00:00) Intro &amp; beverage preparation</p>
+        <p>(04:03) Introducing Andrea Waldthaler</p>
+        <p>(06:33) Smart Working, colleages and the Home Office</p>
+        <p>(13:04) Dealing with professors and students in the digital</p>
+        <p>(14:33) Structural (non-)issues, screen fatigue and workshops</p>
+        <p>(17:50) Working part-time: the wonders of free time</p>
+        <p>(21:09) How to keep a positive attitude?</p>
+        <p>(28:13) Conclusion</p>
+        <p>(31:05) Outro &amp; beverage reflection </p>
+        <br>
+        <p>Music by Aaron Ximm, licensed under CC BY-NC-SA. Available at the Free Music Archive:
+          <br>
+          <a href="https://freemusicarchive.org/music/Aaron_Ximm/Handpans_and_the_Hang">https://freemusicarchive.org/music/Aaron_Ximm/Handpans_and_the_Hang</a>.
+        </p>
+      ]]></description>
+      <itunes:summary>Experience this lecture in calmness and benevolence. Ommmm…</itunes:summary>
+      <pubDate>Sat, 17 Apr 2021 23:54:44 +0000</pubDate>
+      <itunes:duration>00:33:54</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <link>https://audio.gafamfree.party/library/tracks/57935</link>
+      <enclosure url="https://audio.gafamfree.party/api/v1/stream/9a6fd25e-4641-4a3d-bba0-21bcf2b64459.mp3" length="32976218" type="audio/mpeg"/>
+      <guid isPermaLink="false">920c544f-1695-47ee-8acb-c7c437f46cb7</guid>
+    </item>
+    <item>
+      <title>Martina Spinelli, what's the state of k!kero online?</title>
+      <itunes:title>Martina Spinelli, what's the state of k!kero online?</itunes:title>
+      <itunes:subtitle>Take a rest and follow this interview about culture and participation beyond education.</itunes:subtitle>
+      <description><![CDATA[
+        <p>In this episode, Martina Spinelli and I will explore the importance of culture for a healthy university community and discuss k!kero's attempts to offer a program despite virtual separation. How might we connect outside of the online classroom? Which are the main difficulties for k!kero? How can we all destress a bit together?</p>
+        <br>
+        <p>Join us on a walk and conclude with a meditation at your favourite spot!</p>
+        <br>
+        <p>(00:00) Intro</p>
+        <p>(03:19) Introducing Martina Spinelli, kikero and her role in it</p>
+        <p>(09:50) Cultural offers at unibz</p>
+        <p>(13:50) Communicating culture online</p>
+        <p>(16:35) Martina personally</p>
+        <p>(23:00) Online offers to destress</p><p>(29:10) Outro and meditation</p>
+        <br>
+        <p>Music by Aaron Ximm, licensed under CC BY-NC-SA. Available at the Free Music Archive:
+          <br>
+          <a href="https://freemusicarchive.org/music/Aaron_Ximm/Handpans_and_the_Hang">https://freemusicarchive.org/music/Aaron_Ximm/Handpans_and_the_Hang</a>.
+        </p>
+      ]]></description>
+      <itunes:summary>Take a rest and follow this interview about culture and participation beyond education.</itunes:summary>
+      <pubDate>Tue, 06 Apr 2021 19:59:21 +0000</pubDate>
+      <itunes:duration>00:39:06</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <link>https://audio.gafamfree.party/library/tracks/51175</link>
+      <enclosure url="https://audio.gafamfree.party/api/v1/stream/78eb2a4d-0f10-46a3-9575-88b629aab442.mp3" length="43733674" type="audio/mpeg"/>
+      <guid isPermaLink="false">174fe046-5f9e-4f65-81c8-857a2cc45646>
+      </guid>
+    </item>
+  </channel>
+</rss>
